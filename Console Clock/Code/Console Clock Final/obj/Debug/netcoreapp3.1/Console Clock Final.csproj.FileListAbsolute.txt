@@ -1,0 +1,14 @@
+C:\Users\217023113\Desktop\Console Clock Final\Console Clock Final\bin\Debug\netcoreapp3.1\Console Clock Final.exe
+C:\Users\217023113\Desktop\Console Clock Final\Console Clock Final\bin\Debug\netcoreapp3.1\Console Clock Final.deps.json
+C:\Users\217023113\Desktop\Console Clock Final\Console Clock Final\bin\Debug\netcoreapp3.1\Console Clock Final.runtimeconfig.json
+C:\Users\217023113\Desktop\Console Clock Final\Console Clock Final\bin\Debug\netcoreapp3.1\Console Clock Final.runtimeconfig.dev.json
+C:\Users\217023113\Desktop\Console Clock Final\Console Clock Final\bin\Debug\netcoreapp3.1\Console Clock Final.dll
+C:\Users\217023113\Desktop\Console Clock Final\Console Clock Final\bin\Debug\netcoreapp3.1\Console Clock Final.pdb
+C:\Users\217023113\Desktop\Console Clock Final\Console Clock Final\obj\Debug\netcoreapp3.1\Console Clock Final.csproj.AssemblyReference.cache
+C:\Users\217023113\Desktop\Console Clock Final\Console Clock Final\obj\Debug\netcoreapp3.1\Console Clock Final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\217023113\Desktop\Console Clock Final\Console Clock Final\obj\Debug\netcoreapp3.1\Console Clock Final.AssemblyInfoInputs.cache
+C:\Users\217023113\Desktop\Console Clock Final\Console Clock Final\obj\Debug\netcoreapp3.1\Console Clock Final.AssemblyInfo.cs
+C:\Users\217023113\Desktop\Console Clock Final\Console Clock Final\obj\Debug\netcoreapp3.1\Console Clock Final.csproj.CoreCompileInputs.cache
+C:\Users\217023113\Desktop\Console Clock Final\Console Clock Final\obj\Debug\netcoreapp3.1\Console Clock Final.dll
+C:\Users\217023113\Desktop\Console Clock Final\Console Clock Final\obj\Debug\netcoreapp3.1\Console Clock Final.pdb
+C:\Users\217023113\Desktop\Console Clock Final\Console Clock Final\obj\Debug\netcoreapp3.1\Console Clock Final.genruntimeconfig.cache
