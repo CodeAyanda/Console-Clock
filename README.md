@@ -12,10 +12,11 @@ Running Application :
 1. Download Run folder.
 2. Open Run folder.
 3. Open Debug folder.
-4. Run Alarm Hours.exe (fullscreen).
+4. Open netcoreapp3.1 folder.
+4. Run Console Clock Final.exe (fullscreen).
 
 Source:
 1. Download Code folder.
 2. Open Code folder.
-3. Open Alarm Hours folder.
-4. Open Alarm Hours.csproj (C# Project).
+3. Open Console Clock Final folder.
+4. Open Console Clock Final.csproj (C# Project).
