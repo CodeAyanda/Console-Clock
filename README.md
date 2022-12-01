@@ -1,7 +1,8 @@
 # Console-Clock
 
-This is a console application that displays the time as a custom font.
-Basic application that uses system time and custom letters to display the time in the console.
+This is a console application that displays the time as a custom font made from a string of 0. 
+Arranging these 0's a certain way allows for custom text to be written in the console. 
+An asynchronous function was used and it uses a Task.Delay of 1sec and then displays the next set of text.
 
 Application Notes :
 
